@@ -1,6 +1,0 @@
-projectKey=com.example:my-bank
-serverUrl=http://192.168.50.20:9000
-serverVersion=10.1.0.73491
-dashboardUrl=http://192.168.50.20:9000/dashboard?id=com.example%3Amy-bank
-ceTaskId=AYldGM3_Ht_SS_t_XYgv
-ceTaskUrl=http://192.168.50.20:9000/api/ce/task?id=AYldGM3_Ht_SS_t_XYgv
